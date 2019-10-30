@@ -1,6 +1,9 @@
 # WebCrawler
 Multi-threaded Web crawler
 
+# Author
+Roshan Salian
+
 Package required
 - urllib
 - HTMLparser
